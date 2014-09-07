@@ -1,2 +1,6 @@
 This is the file added to repo.
+<<<<<<< HEAD
 newFeature related changes done.
+=======
+This file modified to solve one bug_fix.
+>>>>>>> bug_fix
