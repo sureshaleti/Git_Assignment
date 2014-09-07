@@ -1,0 +1,2 @@
+this is feature related info file :
+first feature is being done.
