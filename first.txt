@@ -1,6 +1,6 @@
 This is the file added to repo.
-<<<<<<< HEAD
+
 newFeature related changes done.
-=======
-This file modified to solve one bug_fix.
->>>>>>> bug_fix
+This file modified to solve one bug_fix..
+this file is merged and resolved conflics while merging branches bugfix and master
+
